@@ -46,18 +46,39 @@ Základný problém, ktorý bol naznačený v úvode, je podrobnejšie vysvetlen
 Dôležité súvislosti sú uvedené v častiach~\ref{dolezita} a~\ref{dolezitejsia}.
 Záverečné poznámky prináša časť~\ref{zaver}.
 
-
+\section{prva cast}
+toto je prva cast tohto clanku
+\section{druha cast}
+druha cast clanku
 
 \section{Nejaká časť} \label{nejaka}
+\section{Dôležitá časť} \label{dolezita}
 
-Z obr.~\ref{f:rozhod} je všetko jasné. 
+V tejto časti uvádzame vývojový diagram, ktorý znázorňuje postup pri návrhu projektu.
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[scale=0.5]{umlflowchart.pdf}
+    \caption{Vývojový diagram projektu (UML štýl).}
+    \label{fig:uml}
+\end{figure}
+
+Nasledujúci obrázok zobrazuje podobný postup, ale vytvorený v inom grafickom nástroji.
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[scale=0.3]{flowchart.pdf}
+    \caption{Vývojový diagram vytvorený v inom nástroji.}
+    \label{fig:graphic}
+\end{figure}
+Z obr.~\ref{f:obrazok.png} je všetko jasné. 
 
 \begin{figure*}[tbh]
 \centering
-%\includegraphics[scale=1.0]{diagram.pdf}
+\includegraphics[scale=1.0]{obrazok.png}
 Aj text môže byť prezentovaný ako obrázok. Stane sa z neho označný plávajúci objekt. Po vytvorení diagramu zrušte znak \texttt{\%} pred príkazom \verb|\includegraphics| označte tento riadok ako komentár (tiež pomocou znaku \texttt{\%}).
 \caption{Rozhodujúci argument.}
-\label{f:rozhod}
+\label{f:obrazok}
 \end{figure*}
 
 
@@ -120,5 +141,5 @@ Niekedy je potrebné nadpisom označiť odsek. Text pokračuje hneď za nadpisom
 
 % týmto sa generuje zoznam literatúry z obsahu súboru literatura.bib podľa toho, na čo sa v článku odkazujete
 \bibliography{literatura}
-\bibliographystyle{abbrv} % prípadne alpha, abbrv alebo hociktorý iný
+\bibliographystyle{plain} % prípadne alpha, abbrv alebo hociktorý iný
 \end{document}
