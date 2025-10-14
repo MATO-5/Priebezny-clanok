@@ -1,6 +1,6 @@
 % Metódy inžinierskej práce
 
-\documentclass[10pt,twoside,slovak,a4paper]{article}
+\documentclass[10pt,twocolumn,twoside,slovak,a4paper]{article}
 
 \usepackage[slovak]{babel}
 %\usepackage[T1]{fontenc}
@@ -74,25 +74,25 @@ Nasledujúci obrázok zobrazuje podobný postup, ale vytvorený v inom grafickom
 \end{figure}
 Z obr.~\ref{f:obrazok.png} je všetko jasné. 
 
-\begin{figure*}[tbh]
+\begin{figure*}[t!]
 \centering
-\includegraphics[scale=1.0]{obrazok.png}
-Aj text môže byť prezentovaný ako obrázok. Stane sa z neho označný plávajúci objekt. Po vytvorení diagramu zrušte znak \texttt{\%} pred príkazom \verb|\includegraphics| označte tento riadok ako komentár (tiež pomocou znaku \texttt{\%}).
-\caption{Rozhodujúci argument.}
+\includegraphics[width=\textwidth]{obrazok.png}
+\caption{Rozhodujúci argument (cez oba stĺpce).}
 \label{f:obrazok}
 \end{figure*}
+
 \begin{figure}[h!]
     \centering
-    \begin{subfigure}[t]{0.48\textwidth}
+    \begin{subfigure}[t]{0.48\columnwidth}
         \centering
-        \includegraphics[width=\textwidth]{diagram1.pdf}
+        \includegraphics[width=\linewidth]{diagram1.pdf}
         \caption{Prvý UML diagram}
         \label{fig:diagram1}
     \end{subfigure}
     \hfill
-    \begin{subfigure}[t]{0.48\textwidth}
+    \begin{subfigure}[t]{0.48\columnwidth}
         \centering
-        \includegraphics[width=\textwidth]{diagram2.pdf}
+        \includegraphics[width=\linewidth]{diagram2.pdf}
         \caption{Druhý UML diagram}
         \label{fig:diagram2}
     \end{subfigure}
