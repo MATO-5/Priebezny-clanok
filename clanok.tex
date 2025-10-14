@@ -12,6 +12,7 @@
 
 \usepackage{cite}
 %\usepackage{times}
+\usepackage{subcaption}
 
 \pagestyle{headings}
 
@@ -80,7 +81,24 @@ Aj text môže byť prezentovaný ako obrázok. Stane sa z neho označný pláva
 \caption{Rozhodujúci argument.}
 \label{f:obrazok}
 \end{figure*}
-
+\begin{figure}[h!]
+    \centering
+    \begin{subfigure}[t]{0.48\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{diagram1.pdf}
+        \caption{Prvý UML diagram}
+        \label{fig:diagram1}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}[t]{0.48\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{diagram2.pdf}
+        \caption{Druhý UML diagram}
+        \label{fig:diagram2}
+    \end{subfigure}
+    \caption{Dva UML diagramy vedľa seba}
+    \label{fig:uml-diagrams}
+\end{figure}
 
 
 \section{Iná časť} \label{ina}
