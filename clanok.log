@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.30)  14 OCT 2025 13:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.30)  14 OCT 2025 13:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -276,11 +276,18 @@ Package caption Info: New subtype `subfigure' on input line 238.
 \c@subfigure=\count300
 Package caption Info: New subtype `subtable' on input line 238.
 \c@subtable=\count301
+) (C:\Users\lukos\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen164
+\WF@size=\dimen165
+\c@WF@wrappedlines=\count302
+\WF@box=\box53
+\WF@everypar=\toks20
+Package: wrapfig 2003/01/31  v 3.6
 )
 (C:\Users\lukos\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count302
+\l__color_backend_stack_int=\count303
 ) (clanok.aux
 Package babel Info: 'slovak' activates 'slovak' shorthands.
 (babel)             Reported on input line 14.
@@ -291,41 +298,41 @@ LaTeX Warning: Label `dolezita' multiply defined.
 )
 \openout1 = `clanok.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for IL2/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for IL2/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
 
 (C:\Users\lukos\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count303
-\scratchdimen=\dimen164
-\scratchbox=\box53
-\nofMPsegments=\count304
-\nofMParguments=\count305
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count306
-\MPscratchDim=\dimen165
-\MPnumerator=\count307
-\makeMPintoPDFobject=\count308
-\everyMPtoPDFconversion=\toks21
+\scratchcounter=\count304
+\scratchdimen=\dimen166
+\scratchbox=\box54
+\nofMPsegments=\count305
+\nofMParguments=\count306
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count307
+\MPscratchDim=\dimen167
+\MPnumerator=\count308
+\makeMPintoPDFobject=\count309
+\everyMPtoPDFconversion=\toks22
 )
 (C:\Users\lukos\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -337,33 +344,34 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 31.
+Package hyperref Info: Link coloring OFF on input line 32.
  (clanok.out) (clanok.out)
 \@outlinefile=\write3
 \openout3 = `clanok.out'.
 
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 34.
+(Font)              <17.28> on input line 35.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 34.
+(Font)              <12> on input line 35.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 34.
+(Font)              <8> on input line 35.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 34.
+(Font)              <6> on input line 35.
 LaTeX Font Info:    Trying to load font information for IL2+cmtt on input line 
-34.
+35.
 
 (C:\Users\lukos\AppData\Local\Programs\MiKTeX\tex/cslatex/base\il2cmtt.fd
 File: il2cmtt.fd 1997/08/20 CSLaTeX font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 34.
+(Font)              <5> on input line 35.
 <umlflowchart.pdf, id=51, 190.7125pt x 431.6125pt>
 File: umlflowchart.pdf Graphic file (type pdf)
 <use umlflowchart.pdf>
-Package pdftex.def Info: umlflowchart.pdf  used on input line 62.
+Package pdftex.def Info: umlflowchart.pdf  used on input line 63.
 (pdftex.def)             Requested size: 95.356pt x 215.80571pt.
 
 
@@ -372,50 +380,60 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <flowchart.pdf, id=52, 481.8pt x 702.625pt>
 File: flowchart.pdf Graphic file (type pdf)
 <use flowchart.pdf>
-Package pdftex.def Info: flowchart.pdf  used on input line 71.
+Package pdftex.def Info: flowchart.pdf  used on input line 72.
 (pdftex.def)             Requested size: 144.5411pt x 210.78912pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: Reference `f:obrazok.png' on page 1 undefined on input line 75.
+LaTeX Warning: Reference `f:obrazok.png' on page 1 undefined on input line 76.
 
 <obrazok.png, id=53, 819.8128pt x 523.20468pt>
 File: obrazok.png Graphic file (type png)
 <use obrazok.png>
-Package pdftex.def Info: obrazok.png  used on input line 79.
+Package pdftex.def Info: obrazok.png  used on input line 80.
 (pdftex.def)             Requested size: 452.0pt x 288.47398pt.
 <diagram1.pdf, id=55, 481.8pt x 702.625pt>
 File: diagram1.pdf Graphic file (type pdf)
 <use diagram1.pdf>
-Package pdftex.def Info: diagram1.pdf  used on input line 88.
+Package pdftex.def Info: diagram1.pdf  used on input line 89.
 (pdftex.def)             Requested size: 106.07906pt x 154.6959pt.
 <diagram2.pdf, id=56, 481.8pt x 702.625pt>
 File: diagram2.pdf Graphic file (type pdf)
 <use diagram2.pdf>
-Package pdftex.def Info: diagram2.pdf  used on input line 95.
+Package pdftex.def Info: diagram2.pdf  used on input line 96.
 (pdftex.def)             Requested size: 106.07906pt x 154.6959pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+<obrazokcez2.jpg, id=57, 2055.68pt x 1541.76pt>
+File: obrazokcez2.jpg Graphic file (type jpg)
+<use obrazokcez2.jpg>
+Package pdftex.def Info: obrazokcez2.jpg  used on input line 105.
+(pdftex.def)             Requested size: 452.0pt x 339.00005pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 106.
+(Font)              <7> on input line 112.
 
 
 
-LaTeX Warning: Citation `Coplien:MPD' on page 1 undefined on input line 108.
+LaTeX Warning: Citation `Coplien:MPD' on page 1 undefined on input line 114.
 
 
-LaTeX Warning: Citation `Czarnecki:Staged' on page 1 undefined on input line 10
-8.
+LaTeX Warning: Citation `Czarnecki:Staged' on page 1 undefined on input line 11
+4.
 
 
 LaTeX Warning: Citation `Czarnecki:Progress' on page 1 undefined on input line 
-108.
+114.
 
 
-LaTeX Warning: Citation `PLP-Framework' on page 1 undefined on input line 108.
+LaTeX Warning: Citation `PLP-Framework' on page 1 undefined on input line 114.
 
+<logo_fiit.png, id=61, 176.15813pt x 66.2475pt>
+File: logo_fiit.png Graphic file (type png)
+<use logo_fiit.png>
+Package pdftex.def Info: logo_fiit.png  used on input line 124.
+(pdftex.def)             Requested size: 113.0pt x 42.49529pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -425,7 +443,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
  <./umlflowchart.pdf>]
-Underfull \hbox (badness 1681) in paragraph at lines 139--140
+Underfull \hbox (badness 1681) in paragraph at lines 153--154
  []\IL2/cmr/bx/n/10 Veµmi dô-le-¾itá po-známka.[] \IL2/cmr/m/n/10 Nie-kedy je p
 o-
  []
@@ -436,14 +454,15 @@ No file clanok.bbl.
 
 
 Package babel Info: 'slovak' activates 'slovak' shorthands.
-(babel)             Reported on input line 163.
-[2 <./flowchart.pdf>]
+(babel)             Reported on input line 177.
+[2 <./flowchart.pdf> <./logo_fiit.png>]
 
 
 
 [3
 
- <./obrazok.png> <./diagram1.pdf> <./diagram2.pdf>] (clanok.aux)
+ <./obrazok.png> <./diagram1.pdf> <./diagram2.pdf>] [4 <./obrazokcez2.jpg>]
+(clanok.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
@@ -459,13 +478,13 @@ Package rerunfilecheck Info: File `clanok.out' has not changed.
 (rerunfilecheck)             Checksum: 39F6D4E817C51027BFEB66C99989F5F1;1297.
  ) 
 Here is how much of TeX's memory you used:
- 11669 strings out of 468130
- 189426 string characters out of 5430633
- 610865 words of memory out of 5000000
- 40142 multiletter control sequences out of 15000+600000
+ 11758 strings out of 468130
+ 190991 string characters out of 5430633
+ 613202 words of memory out of 5000000
+ 40224 multiletter control sequences out of 15000+600000
  639290 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,9n,79p,342b,564s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,79p,342b,517s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\lukos\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1000.pk> <C:\Users\lukos\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dp
 i600\csbx12.pk> <C:\Users\lukos\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csf
@@ -484,9 +503,9 @@ k> <C:\Users\lukos\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\c
 sr12.pk> <C:\Users\lukos\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
 0\tcrm1200.pk> <C:\Users\lukos\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfo
 nts/dpi600\csr17.pk>
-Output written on clanok.pdf (3 pages, 181308 bytes).
+Output written on clanok.pdf (4 pages, 408063 bytes).
 PDF statistics:
- 482 PDF objects out of 1000 (max. 8388607)
- 26 named destinations out of 1000 (max. 500000)
- 114 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 494 PDF objects out of 1000 (max. 8388607)
+ 29 named destinations out of 1000 (max. 500000)
+ 124 words of extra memory for PDF output out of 10000 (max. 10000000)
 

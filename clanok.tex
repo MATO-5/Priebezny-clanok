@@ -13,7 +13,8 @@
 \usepackage{cite}
 %\usepackage{times}
 \usepackage{subcaption}
-
+\usepackage{graphicx} 
+\usepackage{wrapfig}
 \pagestyle{headings}
 
 \title{Názov\thanks{Semestrálny projekt v predmete Metódy inžinierskej práce, ak. rok 2015/16, vedenie: Meno Priezvisko}} % meno a priezvisko vyučujúceho na cvičeniach
@@ -99,7 +100,12 @@ Z obr.~\ref{f:obrazok.png} je všetko jasné.
     \caption{Dva UML diagramy vedľa seba}
     \label{fig:uml-diagrams}
 \end{figure}
-
+\begin{figure*}[t!]
+    \centering
+    \includegraphics[width=\textwidth]{obrazokcez2.jpg}
+    \caption{Prehľadný UML diagram pre celý systém – cez oba stĺpce.}
+    \label{fig:uml-wide}
+\end{figure*}
 
 \section{Iná časť} \label{ina}
 
@@ -112,6 +118,15 @@ Môže sa zdať, že problém vlastne nejestvuje\cite{Coplien:MPD}, ale bolo dok
 
 Niekedy treba uviesť zoznam:
 
+
+\begin{wrapfigure}{l}{0.25\textwidth}  % l = left, šírka 25% stĺpca
+    \vspace{-10pt}  
+    \includegraphics[width=0.25\textwidth]{logo_fiit.png}
+    \vspace{-10pt}  
+\end{wrapfigure}
+
+Toto je text
+
 \begin{itemize}
 \item jedna vec
 \item druhá vec
@@ -121,7 +136,6 @@ Niekedy treba uviesť zoznam:
 	\end{itemize}
 \end{itemize}
 
-Ten istý zoznam, len číslovaný:
 
 \begin{enumerate}
 \item jedna vec
