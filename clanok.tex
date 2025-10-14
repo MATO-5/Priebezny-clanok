@@ -14,6 +14,7 @@
 %\usepackage{times}
 \usepackage{subcaption}
 \usepackage{graphicx} 
+\usepackage{amsmath}
 \usepackage{wrapfig}
 \pagestyle{headings}
 
@@ -152,6 +153,36 @@ Toto je text
 \paragraph{Veľmi dôležitá poznámka.}
 Niekedy je potrebné nadpisom označiť odsek. Text pokračuje hneď za nadpisom.
 
+\section{Príklad matice a dlhého vzorca}
+
+Nasleduje príklad matice rozmeru 5x4:
+
+\section{Príklad matice a dlhého vzorca}
+
+% Matica cez oba stĺpce
+\begin{figure*}[t!]
+\[
+A = 
+\begin{bmatrix}
+a_{11} & a_{12} & a_{13} & a_{14} \\
+a_{21} & a_{22} & a_{23} & a_{24} \\
+a_{31} & a_{32} & a_{33} & a_{34} \\
+a_{41} & a_{42} & a_{43} & a_{44} \\
+a_{51} & a_{52} & a_{53} & a_{54}
+\end{bmatrix}
+\]
+\caption{Príklad matice 5x4 – zaberá oba stĺpce.}
+\label{fig:matrix}
+\end{figure*}
+
+% Dlhý vzorec cez oba stĺpce
+\begin{figure*}[t!]
+\[
+x_n = \sum_{k=0}^{n} \frac{(-1)^k}{k!} \Bigg( \sum_{i=0}^{k} \binom{k}{i} a_i b_{k-i} c_{i+k} d_{k-i+1} e_{i+k-1} f_{k} g_{i} h_{k-i} \Bigg)
+\]
+\caption{Príklad dlhého vzorca presahujúceho šírku stĺpca.}
+\label{fig:long-formula}
+\end{figure*}
 
 
 \section{Dôležitá časť} \label{dolezita}
